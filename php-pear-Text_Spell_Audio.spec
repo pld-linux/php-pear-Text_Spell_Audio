@@ -28,11 +28,11 @@ read the security image hear it read out instead.
 In PEAR status of this package is: %{_status}.
 
 %description -l pl.UTF-8
-Pakiet ten łaczy wiele plików dźwiękowych w formacie wav zawierających
-wymowe liter/cyfr, opcjonalnie dodając zniekształcenie bądź echo.
+Pakiet ten łączy wiele plików dźwiękowych w formacie wav zawierających
+wymowę liter/cyfr, opcjonalnie dodając zniekształcenie bądź echo.
 Dzięki temu możliwe jest stworzenie uzupełnienia do obrazkowego
-CAPTCHA umożliwiając osobom, które z róznych względów nie są w stanie
-odczytać obrazka odsłuchanie zawartej w nim treści.
+CAPTCHA umożliwiając osobom, które z różnych względów nie są w stanie
+odczytać obrazka, odsłuchanie zawartej w nim treści.
 
 Ta klasa ma w PEAR status: %{_status}.
 
